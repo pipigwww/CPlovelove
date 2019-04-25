@@ -322,6 +322,8 @@ hr {
   -moz-transition-property: -moz-transform;
   transition-property: transform; }
   .tile .tile-inner {
+    background-size: cover;
+    color: rgb(0,0,0,0);
     border-radius: 3px;
     background: #eee4da;
     text-align: center;
@@ -329,8 +331,8 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Epcu8pHKUPm6fpqv9CYNKvKpGdWBCy4aWZVSeGrNkL9pq4280g);
+    }
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
