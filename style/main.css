@@ -330,6 +330,7 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
+     background-size: cover;
      color: rgb(0,0,0,0);
     background: url("http://p3.pstatp.com/large/4022000009033fb97de9");
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
@@ -343,18 +344,18 @@ hr {
     background-size: cover;
 }
   .tile.tile-8 .tile-inner {
-    ackground-size: cover;
+     background-size: cover;
     color: rgb(0,0,0,0);
     background: url("http://st.cdjapan.co.jp/pictures/l/03/39/LACM-14737.jpg");
     background-size: cover;
  }
   .tile.tile-16 .tile-inner {
-    ackground-size: cover;
+    background-size: cover;
     color: rgb(0,0,0,0);
     background: url("http://psgels.net/wp-content/uploads/2018/07/Banana-Fish-3.7.png?x67383");
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    c ackground-size: cover;
+     background-size: cover;
     color: rgb(0,0,0,0);
     background: url("http://img.zwbk.org/baike/bpic/2011/02/12/20110212045404877_9825.jpg");
     background-size: cover; }
