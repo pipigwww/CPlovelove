@@ -332,13 +332,16 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Epcu8pHKUPm6fpqv9CYNKvKpGdWBCy4aWZVSeGrNkL9pq4280g");
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
     }
   .tile.tile-4 .tile-inner {
     background: url("http://s1.1zoom.me/big0/612/265647-aliya06.jpg");
-    }
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
+}
   .tile.tile-8 .tile-inner {
-
-    background: url("http://st.cdjapan.co.jp/pictures/l/03/39/LACM-14737.jpg"); }
+    background: url("http://st.cdjapan.co.jp/pictures/l/03/39/LACM-14737.jpg");
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
+ }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
     background: #f59563; }
